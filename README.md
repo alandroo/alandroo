@@ -2,7 +2,7 @@
     <!-- Gif from "https://giphy.com/" -->
     <img alt="crown-giphy" width="65" src="https://media.giphy.com/media/srrh2v0IiCjNBSO88c/giphy.gif" />
     <!-- I made it on https://readme-typing-svg.demolab.com/demo/ -->
-    <img alt="TypingSVG-header" title="Welcome Message" src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=F3BD39&width=435&lines=Olá%2C+eu+sou+Alandro+Santos;Bem-vindo+ao+meu+GitHub+:%29;" />
+    <img alt="TypingSVG-header" title="Welcome Message" src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=F3BD39&width=435&lines=Olá%2C+Me+Chamo+Alandro+Santos;Bem-vindo+ao+meu+GitHub+:%29;" />
 </div>
 
 <div id="translated-readme">
